@@ -31,8 +31,8 @@ To use the Merlot theme:
 Merlot will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Being strict with oneself,striving for excellence]
+description: [Connected and automated vehicles for perceiving,decision,planning and control]
 ```
 
 Additionally, you may choose to set the following optional variables:
